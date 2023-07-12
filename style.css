@@ -466,3 +466,13 @@ input[type="text"], input[type="email"] {
 .footer-bottom-links > a:hover {
     text-decoration: underline;
 }
+
+
+@media screen and (max-width: 767px) {
+
+    .login_container {
+        display: none;
+    }
+
+
+  }
